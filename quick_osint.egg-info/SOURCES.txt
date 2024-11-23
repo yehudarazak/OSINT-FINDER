@@ -1,0 +1,12 @@
+LICENSE
+setup.py
+quick_osint/__init__.py
+quick_osint/domain.py
+quick_osint/email.py
+quick_osint/username.py
+quick_osint.egg-info/PKG-INFO
+quick_osint.egg-info/SOURCES.txt
+quick_osint.egg-info/dependency_links.txt
+quick_osint.egg-info/entry_points.txt
+quick_osint.egg-info/requires.txt
+quick_osint.egg-info/top_level.txt

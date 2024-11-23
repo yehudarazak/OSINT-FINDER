@@ -1,0 +1,2 @@
+[console_scripts]
+quickosint = cli:main

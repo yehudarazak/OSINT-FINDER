@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: quick-osint
+Version: 1.0.0
+Summary: Quick OSINT CLI Tool for Open-Source Intelligence tasks
+Home-page: https://github.com/yourusername/quick-osint-cli
+Author: Yehuda Razak
+License: MIT
+License-File: LICENSE
+Requires-Dist: whois
+Requires-Dist: dnspython
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
