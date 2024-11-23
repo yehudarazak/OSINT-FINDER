@@ -1,4 +1,4 @@
-# Quick OSINT CLI
+# OSINT-FINDER
 
 A simple and efficient command-line tool for performing Open-Source Intelligence (OSINT) tasks from the terminal. The tool is designed to quickly gather domain information, check for data breaches, scan social media for username mentions, and more.
 
@@ -25,6 +25,15 @@ A simple and efficient command-line tool for performing Open-Source Intelligence
 - **Automation & Output Customization** (Planned)  
   Chain multiple tasks and export results in various formats (text, JSON, CSV).
 
+  ## Contributing
+
+We welcome contributions to make this project better! If you want to help improve **OSINT-FINDER**, follow the guidelines below:
+
+- **Code Style:** Please follow Python’s PEP 8 coding style guide for clean and readable code.
+- **Testing:** If possible, include tests for any new features or bug fixes you implement.
+- **Documentation:** Ensure that any new features or changes are well-documented in the README, and provide clear instructions for use.
+- **Respectful Communication:** Please keep discussions and comments respectful and constructive.
+
 ## Installation
 
 ### Prerequisites
@@ -35,18 +44,8 @@ Ensure you have the following installed:
 - pip (Python package installer)
 
 
-## Contributing
-
-We welcome contributions to make this project better! If you want to help improve **OSINT-FINDER**, follow the guidelines below:
-
-- **Code Style:** Please follow Python’s PEP 8 coding style guide for clean and readable code.
-- **Testing:** If possible, include tests for any new features or bug fixes you implement.
-- **Documentation:** Ensure that any new features or changes are well-documented in the README, and provide clear instructions for use.
-- **Respectful Communication:** Please keep discussions and comments respectful and constructive.
-
-
 ### Clone the Repository
 
 ```bash
 git clone https://github.com/yehudarazak/OSINT-FINDER
-cd quick-osint-cli
+cd OSINT-FINDER
